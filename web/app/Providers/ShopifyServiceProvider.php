@@ -14,6 +14,9 @@ use Shopify\Context;
 use Shopify\Webhooks\Registry;
 use Shopify\Webhooks\Topics;
 
+/**
+ * @author Muhammad Huzaifa <me@muhammadhuzaifa.pro>
+ */
 class ShopifyServiceProvider extends ServiceProvider
 {
     /**
